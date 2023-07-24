@@ -51,7 +51,9 @@
     font-size: var(--small-font-size);
     display: flex;
     align-items: center;
+    justify-content: center;
     column-gap: 0.25rem;
+    padding-top: 5px;
 }
 
 .text__description {

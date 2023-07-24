@@ -16,7 +16,7 @@ const Services = () => {
         <div className="services__container container grid">
             <div className="services__content">
                 <div>
-                    <i class='bx bx-window-alt services__icon'></i>
+                    <i className='bx bx-window-alt services__icon'></i>
                     <h3 className="services__title">
                         Web <br /> Developer
                     </h3>
@@ -69,7 +69,7 @@ const Services = () => {
             
             <div className="services__content">
                 <div>
-                    <i class='bx bx-devices services__icon'></i>
+                    <i className='bx bx-devices services__icon'></i>
                     <h3 className="services__title">
                         Mobile <br/> Developer
                     </h3>
