@@ -6,8 +6,8 @@ const Data = () => {
         <h1 className="home__title">
             Caick Tanan
         </h1>
-        <h3 className="home__subtitle">Dev. Back-End | .NET / Angular </h3>
-        <p className="home__description">Caick Tanan: Desenvolvedor Jr. Backend - Web Developer - Mobile Developer</p>
+        <h3 className="home__subtitle">Desenvolvedor Jr | .NET / Angular </h3>
+        <p className="home__description">Caick Tanan: Desenvolvedor Jr. FullStack - Web Developer - Mobile Developer</p>
         
         <a href="#contact" className="button button--flex">
             Contato
