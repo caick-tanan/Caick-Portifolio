@@ -135,10 +135,10 @@ function Qualification() {
 
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Freelancer Mobile Developer</h3>
+                            <h3 className="qualification__title">Freelancer Developer</h3>
 
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2022 - Presente
+                                <i className="uil uil-calendar-alt"></i> 2022 - 2024
                             </div>
                         </div>
 
@@ -157,9 +157,10 @@ function Qualification() {
                         </div>
 
                         <div>
-                            <h3 className="qualification__title">Freelancer Mobile Developer</h3>
+                            <h3 className="qualification__title">Developer</h3>
+                            <span className="qualification__subtitle">NWI Telecom</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2022 - Presente
+                                <i className="uil uil-calendar-alt"></i> 2024 - Presente
                             </div>
                         </div>
                     </div>
