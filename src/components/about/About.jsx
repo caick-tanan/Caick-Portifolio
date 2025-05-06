@@ -17,7 +17,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
 
-                <p className="about__description">Atualmente atuando na área de Desenvolvimento backend, com conhecimentos de linguagens de programação (.NET, Angular), plugins, banco de dados (SQL Server) e sistemas de integração. Busco sempre estar antenado e aprendendo sobre o mercado de tecnologia, acompanhando tendências e lançamentos. 
+                <p className="about__description">Sou desenvolvedor de software com formação em Sistemas de Informação, concluída em 2022. Atuo na criação de soluções eficientes e escaláveis, com foco na qualidade do código e na entrega de valor para o negócio. Tenho experiência no desenvolvimento de aplicações utilizando as seguintes tecnologias: C# | .NET | JavaScript | SQL.
                 </p>
                 <p className="about__description">Procuro diariamente melhorar meus relacionamentos interpessoais, 
                 acredito que por trás de projetos de software há sempre pessoas e que as relações pessoais são fundamentais para o sucesso da equipe.
