@@ -30,7 +30,7 @@ const Backend = () => {
 
                 <div>
                     <h3 className="skills__name">JavaScript</h3>
-                    <span className="skills__level">Básico</span>
+                    <span className="skills__level">Intermediário/Avançado</span>
                 </div>
                 </div>
             </div>
